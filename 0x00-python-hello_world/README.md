@@ -36,8 +36,3 @@ sys.stdout.write("Hello World")
 Output:
 
 Hello World
-
-
-
-![image](https://user-images.githubusercontent.com/105078661/205486245-55cc90f7-4244-485f-9768-99e172312af8.png)
-
