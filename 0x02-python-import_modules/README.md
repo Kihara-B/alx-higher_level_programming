@@ -1,1 +1,3 @@
-this is 0x02-python-import_modules file
+# Solutions to tasks on modules
+___
+Python - import & modules
